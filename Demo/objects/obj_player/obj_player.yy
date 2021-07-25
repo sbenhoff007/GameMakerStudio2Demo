@@ -5,7 +5,10 @@
   },
   "solid": false,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sp_player_idle",
+    "path": "sprites/sp_player_idle/sp_player_idle.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
